@@ -1,0 +1,11 @@
+ Device to Host Bandwidth, 1 Device(s)
+ PINNED Memory Transfers
+   Transfer Size (Bytes)	Bandwidth(MB/s)
+   1048576			11226.1
+   2097152			11685.3
+   3145728			11788.0
+   4194304			11861.2
+   5242880			11817.7
+
+The average bandwidth over total transfers is: 11675.644531
+The standard deviation of bandwidth over total transfers is: 232.134725
